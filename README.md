@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi Im Sherlock
 
-<!--
-**Sherlock221b-devsec/Sherlock221b-devsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Your Name 👋
+
+## About Me
+- 🌱 I'm currently learning Git and version control
+- 💻 I'm currently interested in learnign about devsecops
+- 📫 How to reach me: sauanindya4@gmail.com
+
+## Projects
+- [git-learning-log](https://github.com/Sherlock221b-devsec/git_learning) - My first Git project tracking a learning log
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a SOC Analyst in a kind of a L1-2 Team
+- 🌱 I’m currently learning devsecops
+- ⚡ Fun fact: I kinda have a publication on IEEE about a NLP paper (which I guess has been obsolete now due to genAI)
